@@ -1,3 +1,2 @@
-Redesign untuk Jurnal :
-Rancang Bangun Prototype Sistem Monitoring Keamanan Rumah Menggunakan Multisensor Berbasis Website
-
+# Arsip File  Jurnal RETROTEKIN
+Judul : "Rancang Bangun Prototype Sistem Monitoring Keamanan Rumah Menggunakan NodeMCU ESP32 dengan MultiSensor Berbasis Website"
